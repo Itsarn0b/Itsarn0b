@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Itsarn0b
+- 👋 Hi, I’m  Arnab Dutta @Itsarn0b
 - 👀 I’m interested in ...Web Design Devlopment
 - 🌱 I’m currently learning ...React Js
 - 💞️ I’m looking to collaborate on ...
